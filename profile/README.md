@@ -1,4 +1,4 @@
-## PGC Studios is a development studio focusing on Roblox games development, primarily known for developing the popular Roblox game "PGC's Test Tracks."
+## PGC Studios is a development team focusing on Roblox games development. They are primarily known for developing the popular Roblox game "PGC's Test Tracks."
 
 <!--
 
